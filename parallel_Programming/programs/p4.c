@@ -11,7 +11,7 @@ int is_prime(int n) {
 }
 
 int main() {
-    int n = 10000000;;
+    int n = 10000000;
     clock_t start, end;
     double cpu_time;
 
